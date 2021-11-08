@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31729.503
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ardelean_Marcus_Lab5", "Ardelean_Marcus_Lab5.csproj", "{94C5EA73-40A0-499D-8867-0D8AB770CD0E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AutoGeistModel", "AutoGeistModel\AutoGeistModel.csproj", "{B9DC3B8C-A51F-4607-98F2-4D9F4C9C9B36}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{94C5EA73-40A0-499D-8867-0D8AB770CD0E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{94C5EA73-40A0-499D-8867-0D8AB770CD0E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{94C5EA73-40A0-499D-8867-0D8AB770CD0E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{94C5EA73-40A0-499D-8867-0D8AB770CD0E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B9DC3B8C-A51F-4607-98F2-4D9F4C9C9B36}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B9DC3B8C-A51F-4607-98F2-4D9F4C9C9B36}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B9DC3B8C-A51F-4607-98F2-4D9F4C9C9B36}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B9DC3B8C-A51F-4607-98F2-4D9F4C9C9B36}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {33FB0FEF-4716-4E2C-9A2E-66263EE2CCDF}
+	EndGlobalSection
+EndGlobal

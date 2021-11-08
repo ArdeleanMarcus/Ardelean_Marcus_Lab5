@@ -1,0 +1,12 @@
+E:\Anul_III\Medii de programare\Teme\Ardelean_Marcus_Lab5\AutoGeistModel\bin\Debug\AutoGeistModel.dll.config
+E:\Anul_III\Medii de programare\Teme\Ardelean_Marcus_Lab5\AutoGeistModel\bin\Debug\AutoGeistModel.dll
+E:\Anul_III\Medii de programare\Teme\Ardelean_Marcus_Lab5\AutoGeistModel\bin\Debug\AutoGeistModel.pdb
+E:\Anul_III\Medii de programare\Teme\Ardelean_Marcus_Lab5\AutoGeistModel\bin\Debug\EntityFramework.dll
+E:\Anul_III\Medii de programare\Teme\Ardelean_Marcus_Lab5\AutoGeistModel\bin\Debug\EntityFramework.SqlServer.dll
+E:\Anul_III\Medii de programare\Teme\Ardelean_Marcus_Lab5\AutoGeistModel\bin\Debug\EntityFramework.xml
+E:\Anul_III\Medii de programare\Teme\Ardelean_Marcus_Lab5\AutoGeistModel\bin\Debug\EntityFramework.SqlServer.xml
+E:\Anul_III\Medii de programare\Teme\Ardelean_Marcus_Lab5\AutoGeistModel\obj\Debug\AutoGeistModel.csproj.AssemblyReference.cache
+E:\Anul_III\Medii de programare\Teme\Ardelean_Marcus_Lab5\AutoGeistModel\obj\Debug\AutoGeistModel.csproj.CoreCompileInputs.cache
+E:\Anul_III\Medii de programare\Teme\Ardelean_Marcus_Lab5\AutoGeistModel\obj\Debug\AutoGeistModel.csproj.CopyComplete
+E:\Anul_III\Medii de programare\Teme\Ardelean_Marcus_Lab5\AutoGeistModel\obj\Debug\AutoGeistModel.dll
+E:\Anul_III\Medii de programare\Teme\Ardelean_Marcus_Lab5\AutoGeistModel\obj\Debug\AutoGeistModel.pdb
